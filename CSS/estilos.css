@@ -1,0 +1,55 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(45deg, rgb(31, 199, 157) 30%, #49a6f1 40%);
+}
+
+.caja1{
+    background: linear-gradient(45deg, rgb(14, 113, 179) 45%, rgb(17, 223, 109) 45%);
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+}
+
+.caja2{
+    width: 30%;
+    float: left;
+    padding: 10px 10px 10px 10px;
+    text-align: justify;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+}
+
+section div span{
+font-size: 15px;
+font-weight: bold;
+}
+
+.titulos{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    background-color: rgba(73, 73, 122, 0.144);
+    padding: 10px 20px 10px 20px;
+}
+
+nav ul li a:hover {
+background-color: rgba(62, 243, 62, 0.979);
+}
+
+table{
+    border: double;
+    border: black;
+}
+        
+.caja3{
+    width: 50%;
+    float: left;
+    padding: 10px 10px 10px 10px;
+    text-align: justify;
+}
